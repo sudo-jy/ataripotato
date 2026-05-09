@@ -1,4 +1,4 @@
-**HOT POTATO**
+**ATARI POTATO**
 
 A very rudimentary game for the Atari 2600.
 
